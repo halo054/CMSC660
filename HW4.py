@@ -3,6 +3,7 @@ import copy
 import matplotlib.pyplot as plt
 
 def RayleighQuotient(n):
+    print("n =",n)
     A = np.random.rand(n,n)
     AT = np.transpose(A)
     A = A + AT
