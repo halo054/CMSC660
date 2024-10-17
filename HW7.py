@@ -111,7 +111,7 @@ def F_norm_completion(rank,penalty_lambda,iterations,shape = shape, data = Numpy
 
 
 
-'''
+
 X,YT = F_norm_completion(1,0.1,2000)
 M_1 = np.matmul(X,YT)
 
@@ -179,7 +179,7 @@ M_21 = np.matmul(X,YT)
 
 
 
-'''
+
 
 
 
