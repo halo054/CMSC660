@@ -1,3 +1,5 @@
+Two main files of this folder is "HW8.py" and "random_walk_in_maze_altered.m".
+
 The csv files required by the python program and the matlab program are different.
 
 Half of Matlab program should be run first till "M.csv", " Lsymm.csv", and "bsymm.csv" are generated.
