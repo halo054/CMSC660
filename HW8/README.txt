@@ -1,4 +1,4 @@
-The csv files required the python program and the matlab program are different.
+The csv files required by the python program and the matlab program are different.
 
 Half of Matlab program should be run first till "M.csv", " Lsymm.csv", and "bsymm.csv" are generated.
 
