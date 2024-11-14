@@ -1,0 +1,28 @@
+Test 0	 Method: BFGS Dogleg	 model: 0	 iterations: 254
+Test 1	 Method: BFGS Dogleg	 model: 0	 iterations: 363
+Test 2	 Method: BFGS Dogleg	 model: 0	 iterations: 334
+Test 3	 Method: BFGS Dogleg	 model: 0	 iterations: 1000
+Test 4	 Method: BFGS Dogleg	 model: 0	 iterations: 310
+Test 5	 Method: BFGS Dogleg	 model: 0	 iterations: 278
+Test 6	 Method: BFGS Dogleg	 model: 0	 iterations: 307
+Test 7	 Method: BFGS Dogleg	 model: 0	 iterations: 262
+Test 8	 Method: BFGS Dogleg	 model: 0	 iterations: 218
+Test 9	 Method: BFGS Dogleg	 model: 0	 iterations: 202
+Test 10	 Method: Newton	 model: 0	 iterations: 33
+Test 11	 Method: Newton	 model: 0	 iterations: 159
+Test 12	 Method: Newton	 model: 0	 iterations: 27
+Test 13	 Method: Newton	 model: 0	 iterations: 21
+Test 14	 Method: Newton	 model: 0	 iterations: 26
+Test 15	 Method: Newton	 model: 0	 iterations: 38
+Test 16	 Method: Newton	 model: 0	 iterations: 30
+Test 17	 Method: Newton	 model: 0	 iterations: 33
+Test 18	 Method: Newton	 model: 0	 iterations: 37
+Test 19	 Method: Newton	 model: 0	 iterations: 22
+Test 20	 Method: BFGS Dogleg	 model: 1	 iterations: 141
+Test 21	 Method: Newton	 model: 1	 iterations: 10
+Test 22	 Method: BFGS Dogleg	 model: 2	 iterations: 96
+Test 23	 Method: Newton	 model: 2	 iterations: 4
+Test 24	 Method: BFGS Dogleg	 model: 3	 iterations: 88
+Test 25	 Method: Newton	 model: 3	 iterations: 4
+Test 26	 Method: BFGS Dogleg	 model: 4	 iterations: 99
+Test 27	 Method: Newton	 model: 4	 iterations: 4
